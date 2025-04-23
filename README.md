@@ -51,7 +51,6 @@ EmployeeManager/
 │   │   └── META-INF/beans.xml
 │   └── webapp/
 │       ├── index.xhtml
-│       ├── home.xhtml
 │       ├── resources/css/styles.css
 │       └── WEB-INF/
 │           ├── faces-config.xml
